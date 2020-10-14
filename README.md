@@ -1,0 +1,2 @@
+# GAS-SENSOR
+Sensor Alkohol Sensor alkohol adalah perangkat semikonduktor, yang mendeteksi keberadaan alkohol. Untuk mendemonstrasikan kerja sensor alkohol, sensor MQ3 dari Sunrom dianggap, yang dapat mendeteksi alkohol dengan konsentrasi yang bervariasi dari 0,05 hingga 10 mg / L. Itu terbuat dari bahan sensitif SnO2; itu menunjukkan lebih rendah konduktivitas di udara bersih, dan konduktivitas meningkat dengan peningkatan konsentrasi alkohol-gas. Modul ini memberikan keluaran : (1) analog dan (2) digital.
